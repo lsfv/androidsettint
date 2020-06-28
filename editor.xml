@@ -1,0 +1,18 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="question" case-sensitive="true" pattern="!todo.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+</application>
